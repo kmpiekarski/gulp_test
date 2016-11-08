@@ -1,0 +1,22 @@
+{
+  "name": "gulp_test",
+  "version": "1.0.0",
+  "description": "Application to tryout and test gulp.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "var i = 0; i +=1;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmpiekarski/gulp_test.git"
+  },
+  "author": "K.M.Piekarski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmpiekarski/gulp_test/issues"
+  },
+  "homepage": "https://github.com/kmpiekarski/gulp_test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
